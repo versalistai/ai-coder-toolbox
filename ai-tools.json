@@ -1,0 +1,308 @@
+{
+    "AI-Assisted Code Development": [
+      {
+        "Tool/Company": "Builder.io",
+        "Category": "Writing Code",
+        "Website": "https://www.builder.io/",
+        "Pricing": "Free plan available, paid plans start at $29/month",
+        "Learning Resources": "https://www.builder.io/c/docs/introduction"
+      },
+      {
+        "Tool/Company": "CodeComplete",
+        "Category": "Writing Code",
+        "Website": "https://codecomplete.ai/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://codecomplete.ai/docs"
+      },
+      {
+        "Tool/Company": "Codeium",
+        "Category": "Writing Code",
+        "Website": "https://codeium.com/",
+        "Pricing": "Free for individual use, team plans available",
+        "Learning Resources": "https://codeium.com/blog"
+      },
+      {
+        "Tool/Company": "CodeStory",
+        "Category": "Writing Code",
+        "Website": "https://codestory.ai/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://codestory.ai/resources"
+      },
+      {
+        "Tool/Company": "Codium",
+        "Category": "Writing Code",
+        "Website": "https://codium.ai/",
+        "Pricing": "Free plan available, pro plans start at $15/month",
+        "Learning Resources": "https://codium.ai/tutorial"
+      },
+      {
+        "Tool/Company": "Cursor",
+        "Category": "Writing Code",
+        "Website": "https://cursor.sh/",
+        "Pricing": "Free plan available",
+        "Learning Resources": "https://cursor.sh/docs"
+      },
+      {
+        "Tool/Company": "Replit",
+        "Category": "Writing Code",
+        "Website": "https://replit.com/",
+        "Pricing": "Free plan available, paid plans start at $7/month",
+        "Learning Resources": "https://replit.com/docs"
+      },
+      {
+        "Tool/Company": "SourceGraph",
+        "Category": "Writing Code",
+        "Website": "https://sourcegraph.com/",
+        "Pricing": "Free for open-source, contact for enterprise pricing",
+        "Learning Resources": "https://sourcegraph.com/docs"
+      },
+      {
+        "Tool/Company": "SuperMaven",
+        "Category": "Writing Code",
+        "Website": "https://supermaven.com/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://supermaven.com/resources"
+      },
+      {
+        "Tool/Company": "TabNine",
+        "Category": "Writing Code",
+        "Website": "https://tabnine.com/",
+        "Pricing": "Free plan available, pro plans start at $12/month",
+        "Learning Resources": "https://tabnine.com/blog"
+      }
+    ],
+    "Testing Code": [
+      {
+        "Tool/Company": "BlinqIQ",
+        "Category": "Testing Code",
+        "Website": "https://blinq.io/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://blinq.io/docs"
+      },
+      {
+        "Tool/Company": "Codeium",
+        "Category": "Testing Code",
+        "Website": "https://codeium.com/",
+        "Pricing": "Free for individual use, team plans available",
+        "Learning Resources": "https://codeium.com/blog"
+      },
+      {
+        "Tool/Company": "Codium",
+        "Category": "Testing Code",
+        "Website": "https://codium.ai/",
+        "Pricing": "Free plan available, pro plans start at $15/month",
+        "Learning Resources": "https://codium.ai/tutorial"
+      },
+      {
+        "Tool/Company": "Meticulous",
+        "Category": "Testing Code",
+        "Website": "https://meticulous.ai/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://meticulous.ai/docs"
+      },
+      {
+        "Tool/Company": "Mimentic",
+        "Category": "Testing Code",
+        "Website": "https://mimentic.com/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://mimentic.com/resources"
+      },
+      {
+        "Tool/Company": "QA WOLF",
+        "Category": "Testing Code",
+        "Website": "https://qawolf.com/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://qawolf.com/docs"
+      },
+      {
+        "Tool/Company": "Ventrilo",
+        "Category": "Testing Code",
+        "Website": "https://ventrilo.ai/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://ventrilo.ai/learning-center"
+      }
+    ],
+    "Code Review": [
+      {
+        "Tool/Company": "Bito",
+        "Category": "Code Review",
+        "Website": "https://bito.ai/",
+        "Pricing": "Free plan available, pro plans start at $20/month",
+        "Learning Resources": "https://bito.ai/resources"
+      },
+      {
+        "Tool/Company": "Codeium",
+        "Category": "Code Review",
+        "Website": "https://codeium.com/",
+        "Pricing": "Free for individual use, team plans available",
+        "Learning Resources": "https://codeium.com/blog"
+      },
+      {
+        "Tool/Company": "CodeRabbit",
+        "Category": "Code Review",
+        "Website": "https://coderabbit.ai/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://coderabbit.ai/docs"
+      },
+      {
+        "Tool/Company": "Codium",
+        "Category": "Code Review",
+        "Website": "https://codium.ai/",
+        "Pricing": "Free plan available, pro plans start at $15/month",
+        "Learning Resources": "https://codium.ai/tutorial"
+      },
+      {
+        "Tool/Company": "KORBIT",
+        "Category": "Code Review",
+        "Website": "https://korbit.ai/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://korbit.ai/resources"
+      },
+      {
+        "Tool/Company": "Planar",
+        "Category": "Code Review",
+        "Website": "https://planar.dev/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://planar.dev/resources"
+      },
+      {
+        "Tool/Company": "Trunk",
+        "Category": "Code Review",
+        "Website": "https://trunk.io/",
+        "Pricing": "Free for open-source, paid plans available",
+        "Learning Resources": "https://trunk.io/docs"
+      }
+    ],
+    "Code Maintenance": [
+      {
+        "Tool/Company": "Dosu",
+        "Category": "Maintenance",
+        "Website": "https://dosu.dev/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://dosu.dev/learning-center"
+      },
+      {
+        "Tool/Company": "Gitar",
+        "Category": "Maintenance",
+        "Website": "https://gitar.io",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://gitar.co/docs"
+      },
+      {
+        "Tool/Company": "Grit",
+        "Category": "Maintenance",
+        "Website": "https://grit.io/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://grit.io/docs"
+      },
+      {
+        "Tool/Company": "SECOND",
+        "Category": "Maintenance",
+        "Website": "https://second.dev/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://second.dev/resources"
+      },
+      {
+        "Tool/Company": "Sweep AI",
+        "Category": "Maintenance",
+        "Website": "https://sweep.dev/",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://sweep.dev/docs"
+      }
+    ],
+    "AI-Driven Code Generation and Automation": [
+      {
+        "Tool": "AutoCodeRover",
+        "Website": "https://github.com/AutoCodeRover",
+        "Pricing": "Open-source",
+        "Learning Resources": "https://github.com/AutoCodeRover/README.md"
+      },
+      {
+        "Tool": "Codegen",
+        "Website": "https://codegen.com",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://codegen.com/docs"
+      },
+      {
+        "Tool": "Cognition",
+        "Website": "https://cognition-labs.com",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://cognition-labs.com/resources"
+      },
+      {
+        "Tool": "FACTORY",
+        "Website": "https://factory.ai",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://factory.ai/learning-center"
+      },
+      {
+        "Tool": "OpenDevin",
+        "Website": "https://github.com/OpenDevin",
+        "Pricing": "Open-source",
+        "Learning Resources": "https://github.com/OpenDevin/README.md"
+      },
+      {
+        "Tool": "SWE-agent",
+        "Website": "https://github.com/SWE-agent",
+        "Pricing": "Open-source",
+        "Learning Resources": "https://github.com/SWE-agent/README.md"
+      },
+      {
+        "Tool": "Tusk",
+        "Website": "https://tusk.ai",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://tusk.ai/docs"
+      },
+      {
+        "Tool": "MetaGPT",
+        "Website": "https://github.com/MetaGPT",
+        "Pricing": "Open-source",
+        "Learning Resources": "https://github.com/MetaGPT/README.md"
+      },
+      {
+        "Tool": "V0",
+        "Website": "https://v0.dev",
+        "Pricing": "Free during alpha",
+        "Learning Resources": "https://v0.dev/docs"
+      },
+      {
+        "Tool": "GPT Researcher",
+        "Website": "https://github.com/GPT-Researcher",
+        "Pricing": "Open-source",
+        "Learning Resources": "https://github.com/GPT-Researcher/README.md"
+      },
+      {
+        "Tool": "Devin",
+        "Website": "https://cognition-labs.com/devin",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://cognition-labs.com/devin/docs"
+      }
+    ],
+    "Code-Specific Model Layer": [
+      {
+        "Tool": "Augment",
+        "Website": "https://augment.dev",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://augment.dev/docs"
+      },
+      {
+        "Tool": "Codeium",
+        "Website": "https://codeium.com",
+        "Pricing": "Free for individual use, team plans available",
+        "Learning Resources": "https://codeium.com/blog"
+      },
+      {
+        "Tool": "Magic",
+        "Website": "https://magic.dev",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://magic.dev/docs"
+      },
+      {
+        "Tool": "Poolside",
+        "Website": "https://poolside.ai",
+        "Pricing": "Contact for pricing",
+        "Learning Resources": "https://poolside.ai/resources"
+      }
+    ]
+  }
+  
